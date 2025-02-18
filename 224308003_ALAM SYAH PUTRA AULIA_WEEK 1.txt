@@ -1,0 +1,7 @@
+Analisis dan Diskusi 
+Analisis :
+Pada percobaan ini, software yang digunakan adalah VSCode yang programnya diambil dari modul yang diberikan. Selanjutnya, program dijalankan dan dikarenakan adanya sedikit error sehingga dilakukan perbaikan. Kemudian dihasilkan 3 output berupa hasil kamera real time, masking, dan tampilan warna merah. Kamera dapat membedakan warna dengan cara melihat nilai Hue, Saturation, and Value (HSV) pada objek. Saat mendekteksi objek, kamera akan mencari nilai biner yang sesuai dengan warna merah. Setelah terdeteksi warna merah, maka masking akan menandai bagian dari objek yang berwarna merah dan hasil akhirnya dapat dilihat pada output yang hanya menampilkan warna merah pada objek setelah di-masking.
+Diskusi :
+1.	Artificial Intelegent (AI) dapat meningkatkan sistem kontrol berbasis Computer Vision dimana dapat digunakan untuk mendeteksi para pengguna jalan yang melanggar tata tertib lalu lintas. Contoh pengaplikasiannya sudah diterapkan pada sistem e-tilang Satlantas.
+2.	Kelebihan dari sistem deteksi objek berbasis warna adalah dapat membantu orang yang menderita buta warna sehingga dapat membedakan warna pada suatu objek. Sedangkan kekurangan dari sistem ini adalah hasil dari deteksi warnanya masih sangat terpengaruh oleh kualitas kamera dan pencahayaan objek tersebut.
+3.	Cara meningkatkan akurasi deteksi objek adalah dengan menambahkan dataset untuk menambah referensi sehingga akurasi dari pendeteksi objek tersebut bisa lebih presisi dalam mendefinisikan suatu objek.
